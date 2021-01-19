@@ -17,9 +17,8 @@
 
 ## Visual Question Answering Demo:
 <video width="320" height="240" controls>
-	<source src="VQA_demo.mp4" type="video/mp4">
-	VQA Demo
-</video
+	<source src="Demo/VQA_demo.mp4" type="video/mp4">
+</video>
 
 ## Requirements (Python3):
 * numpy
