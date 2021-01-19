@@ -13,7 +13,7 @@
 10. Attached demo notebook as well. Make sure to run it from object_detection folder under the research directory of Tensorflow object detection API local setup.
 
 ## Final Presentation Video Link:
-<a name="Visual Question Answering Presentation" href="https://www.youtube.com/watch?v=PDTpBWwNxZs&t=89s">Visual Question Answering Presentation</a>
+<a name="Visual Question Answering Presentation" href="https://www.youtube.com/watch?v=PDTpBWwNxZs&t">Visual Question Answering Presentation</a>
 
 ## Visual Question Answering Demo:
 <video width="320" height="240" controls>
